@@ -5,10 +5,10 @@ const path = require('path');
 
 const config = {
   entry: {
-    app: './assets/js/script.js',
-    events: './assets/js/events.js',
-    schedule: './assets/js/schedule.js',
-    tickets: './assets/js/tickets.js'
+    app: './js/script.js',
+    events: './js/events.js',
+    schedule: './js/schedule.js',
+    tickets: './js/tickets.js'
   },
   output: {
     path: path.join(__dirname + "/dist"),
