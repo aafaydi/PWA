@@ -17,10 +17,12 @@ SO THAT my account balance is accurate when I am traveling
 
 # Deployment:
 GitHub: https://github.com/aafaydi/PWA </br>
-Heroku:
+Heroku: https://brazil1982.herokuapp.com/
 
 # Screen Shot:
 https://github.com/aafaydi/PWA/issues/1
+
+
 
 # Acceptance Criteria:
 GIVEN a budget tracker without an internet connection
